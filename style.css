@@ -1,0 +1,27 @@
+body {
+  background-color: #ffccd5;
+}
+
+h1 {
+  color: #001845;
+  font-family: "Poppins", sans-serif;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+p {
+  font-family: "Kanit", sans-serif;
+  font-size: x-large;
+  text-align: center;
+  font-weight: 900;
+}
+
+img {
+  width: 100%;
+}
+#img {
+  border: 10px solid #001845;
+  margin-top: 50px;
+  width: 50%;
+  margin-left: 25%;
+}
